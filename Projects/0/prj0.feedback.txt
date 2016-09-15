@@ -1,0 +1,34 @@
+8 pts
+
+Dayna,
+
+- Congratulations on passing the judge Kattis!
+
+
+However, 
+
+- The program is missing the header specified in the style guidelines:
+  /**
+   * file: SinglyLinkedList.java
+   * author: student name
+   * course: CMPT 220
+   * assignment: project 1
+   * due date: August 30, 2003
+   * version: 1.3
+   * 
+   * This file contains the declaration of the SinglyLinkedList abstract data
+   * type.
+   */
+
+- Line #4 is incorrectly indented to two spaces instead of four.
+
+- Comments usually preceed the statements that they describe; however, your
+  comment appears after the statements, which is incorrect. 
+
+- Please read the style guidelines to make sure you understand them. Do not
+  hesitate to ask any questions.
+
+
+Peace,
+
+- Dr. Rivas
