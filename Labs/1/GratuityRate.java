@@ -1,6 +1,8 @@
+// == missing header
 import java.util.Scanner;
 
 public class GratuityRate {
+  // == using tabs!!!
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		

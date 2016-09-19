@@ -1,6 +1,8 @@
+// == missing header
 public class PatternJava {
   public static void main(String[] args) {
     System.out.println();
+    // == using tabs!!!
 	//Prints out a blank line for before the pattern is displayed
 	
 	System.out.println("     J     A     V     V    A    "); 

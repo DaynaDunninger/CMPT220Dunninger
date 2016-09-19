@@ -1,8 +1,10 @@
+// == missing header
 import java.util.Scanner;
 //
 
 public class CelsiusToFahrenheit {
   public static void main(String[] args) {
+    // == using tabs!!!
   	Scanner input = new Scanner(System.in);
 	//
 	
