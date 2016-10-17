@@ -1,0 +1,22 @@
+9 pts
+
+Dayna,
+
+About your programs...
+
+Functionality
+
+- Could not test functionality because your program for the Palindrome problem
+  cannot be compiled.  -1pt
+
+Please make sure you read the problems well; follow instructions.
+
+
+Style Check
+
+- Your programs seem to pass the style check. Good job!
+
+
+Peace,
+
+- Dr. Rivas
