@@ -1,0 +1,12 @@
+38 pts
+
+The project uses combinations and permutations to determine the true
+probability of certain poker hands, and the sample-based probability estimate
+for comparison simulating real-world random events.
+
+However, there are some issues...
+Code:
+- You are using tabs. -1pt
+
+- There is incorrect indentation. -1pt
+
